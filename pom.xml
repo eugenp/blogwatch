@@ -343,7 +343,7 @@
         <logback.version>1.2.3</logback.version>
 
         <!-- marshalling -->
-        <jackson.version>2.9.2</jackson.version>
+        <jackson.version>2.9.10.4</jackson.version>
 
         <!-- testing -->
         <rest-assured.version>2.9.0</rest-assured.version>
