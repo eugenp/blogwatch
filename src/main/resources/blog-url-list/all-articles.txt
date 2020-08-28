@@ -682,7 +682,6 @@
 /java-web-weekly-158
 /spring-mvc-async-security
 /java-management-extensions
-/spring-security-async-principal-propagation
 /spring-rest-custom-media-type
 /vavr
 /java-web-weekly-157
@@ -844,7 +843,6 @@
 /spring-git-information
 /java-8-functional-interfaces
 /x-509-authentication-in-spring-security
-/spring-model-parameters-with-handler-interceptor
 /spring-webappconfiguration
 /introduction-to-hystrix
 /java-web-weekly-139
@@ -1325,7 +1323,6 @@
 /mockito-verify
 /guava-functions-predicates
 /hamcrest-collections-arrays
-/exception-handling-for-rest-with-spring
 /guava-order
 /guava-collections
 /properties-with-spring
@@ -1345,7 +1342,6 @@
 /spring-security-digest-authentication
 /no-bean-named-springsecurityfilterchain-is-defined
 /spring-nosuchbeandefinitionexception
-/spring-security-expressions-basic
 /spring-security-session
 /spring-security-authentication-provider
 /spring-security-basic-authentication
