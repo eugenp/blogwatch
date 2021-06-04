@@ -344,7 +344,7 @@
         <guava.version>23.6-jre</guava.version>
         <guava-retrying.version>2.0.0</guava-retrying.version>
         <jdom.version>2.0.2</jdom.version>
-        <snakeyaml.version>1.21</snakeyaml.version>
+        <snakeyaml.version>1.26</snakeyaml.version>
 
         <!-- logging -->
         <org.slf4j.version>1.7.25</org.slf4j.version>
